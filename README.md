@@ -20,6 +20,31 @@ I build thoughtful digital products that make complicated ideas feel clear and u
 
 **01 / MAKE IT USEFUL** · **02 / SWEAT THE DETAILS** · **03 / STAY CURIOUS**
 
+## Live stats & activity
+
+Click the contribution graph to explore the interactive activity page. The cards refresh from GitHub and LeetCode data.
+
+<p align="center">
+  <a href="https://viditsharma.vercel.app/activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidzzzzz17&theme=react-dark" alt="GitHub contribution activity graph for Vidit Sharma" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://viditsharma.vercel.app/activity">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vidzzzzz17&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats for Vidit Sharma" />
+  </a>
+  <a href="https://viditsharma.vercel.app/activity">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidzzzzz17&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most-used GitHub languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Vidzzzzz17/">
+    <img src="https://leetcard.jacoblin.cool/Vidzzzzz17?theme=dark" alt="Live LeetCode stats for Vidit Sharma" />
+  </a>
+</p>
+
 ## Selected work
 
 - **[Folio — AI agent dashboard](https://viditsharma.vercel.app/projects)**  
